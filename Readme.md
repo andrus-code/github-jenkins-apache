@@ -11,6 +11,8 @@ and I need to configure Webhooks in github
 
 * Dashboard -> Manage Jenkins -> Configure System
 
+
+
 ![](images/2.png "Webkooks")
 
 ![](images/4.png "Webkooks")
