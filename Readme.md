@@ -12,6 +12,6 @@ and I need to configure Webhooks in github
 
 * Dashboard -> Manage Jenkins -> Configure System
 
-
+3 - Create index.html 
 
 
