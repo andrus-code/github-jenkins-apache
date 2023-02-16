@@ -14,12 +14,4 @@ and I need to configure Webhooks in github
 
 
 
-![](images/2.png "Webkooks")
-
-![](images/4.png "Webkooks")
-
-![](images/5.png "Webkooks")
-
-![](images/6.png "Webkooks")
-
 
