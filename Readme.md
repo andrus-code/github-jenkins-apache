@@ -23,8 +23,19 @@ Jenkins is server in my house and need to connect it with github, for that I nee
 ####  Configuring Jenkins
 
 
+4. In Jenkins, click on ‘New Item’ to create a new project.
 
 
+![](images/7.png "Jenkins")
 
 
+5. Give your project a name, then choose ‘Freestyle project’ and finally, click on ‘OK’.
 
+
+![](images/8.png "Freestyle project")
+
+
+6. Click on the ‘General' tab, give a description  and choose 'Github proyect'
+
+
+![](images/9.png "General")
