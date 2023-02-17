@@ -35,7 +35,25 @@ Jenkins is server in my house and need to connect it with github, for that I nee
 ![](images/8.png "Freestyle project")
 
 
-6. Click on the ‘General' tab, give a description  and choose 'Github proyect'
+6. Click on the ‘General' tab, give a description  and choose 'GitHub proyect'
 
 
 ![](images/9.png "General")
+
+
+7. After that, click on the ‘Source Code Management' tab and Click on Git and paste your GitHub repository URL in the ‘Repository URL’ field.
+
+
+![](images/10.png "General")
+
+8. Change Branch master to main 
+
+![](images/11.png "General")
+
+
+9. Click on the ‘Build Triggers’ tab and then on the ‘GitHub hook trigger for GITScm polling’. Or, choose the trigger of your choice.
+
+![](images/12.png "General")
+
+
+That's it! Your GitHub repository is integrated with your Jenkins project. With this Jenkins GitHub integration, you can now use any file found in the GitHub repository and trigger the Jenkins job to run with every code commit.
